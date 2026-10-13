@@ -1,0 +1,6 @@
+Memahami Konsep Dasar Web (HTML & CSS)
+Mengenal Cara Kerja dan Penulisan JavaScript
+Mempelajari Sintaks dan Dasar Pemrograman
+Mempelajari DOM (Document Object Model)
+Berlatih Membuat Proyek Kecil
+Menjelajahi JavaScript Lanjutan & Ekosistemnya
