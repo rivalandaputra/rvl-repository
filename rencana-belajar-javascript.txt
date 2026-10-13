@@ -4,4 +4,3 @@ Mempelajari Sintaks dan Dasar Pemrograman
 Mempelajari DOM (Document Object Model)
 Berlatih Membuat Proyek Kecil
 Menjelajahi JavaScript Lanjutan & Ekosistemnya
-Latihan membuat percabangan Git untuk memahami Network Graph.
